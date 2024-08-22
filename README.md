@@ -3,11 +3,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Instalando Zoneminder no Fedora 15](https://dev.to/thiagoreis/instalando-zoneminder-no-fedora-15-32hj)
 - [Fedora Workstation 34: Guia pós-instalação e Ambiente Dev JavaScript](https://dev.to/thiagoreis/fedora-workstation-34-guia-pos-instalacao-e-ambiente-dev-javascript-jbo)
 - [React Hooks — Como Executar Efeitos Colaterais](https://medium.com/@thiagoreisdev/react-hooks-como-executar-efeitos-colaterais-346ac45feeb9?source=rss-a7424296f7cd------2)
 - [Configurando o Visual Studio Code](https://medium.com/@thiagoreisdev/configurando-o-visual-studio-code-1b262ab3084e?source=rss-a7424296f7cd------2)
 - [Um Guia para Iniciantes no React.js](https://medium.com/rocketseat/um-guia-para-iniciantes-no-react-js-80e1ac357649?source=rss-a7424296f7cd------2)
-- [How to implement Lazy Loading in Angular](https://medium.com/@thiagoreisdev/how-to-implement-lazy-loading-in-angular-c8dcbf165561?source=rss-a7424296f7cd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
