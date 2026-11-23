@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About me
 
-I'm a **Senior Software Engineer based in Brazil developing software since 2009, with over 17 years of experience** building and maintaining web applications, APIs, and reliable software solutions.
+I'm a **Senior Software Engineer based in Brazil over 15 years of experience in software development** building and maintaining web applications, APIs, and reliable software solutions.
 
 My background includes **React, TypeScript, C#/.NET, software architecture, automated testing, code reviews, and technical mentorship**.
 
